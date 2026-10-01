@@ -1,6 +1,6 @@
 {
     "WR_SkyWriter": {
-        "version": "1.0.1",
-        "changes": "Update check in the server console"
+        "version": "1.0.2",
+        "changes": "New look for the console version box"
     }
 }
